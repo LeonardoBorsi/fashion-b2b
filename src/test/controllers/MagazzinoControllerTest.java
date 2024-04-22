@@ -17,7 +17,7 @@ import main.orm.dao.articolo.ArticoloMagazzinoDAO;
 import main.orm.dao.ordine.OrdineClienteDAO;
 import test.TestUtils;
 
-public class MagazzinoTest {
+public class MagazzinoControllerTest {
 		
 	@BeforeClass
     public static void populate() {
